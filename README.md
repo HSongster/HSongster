@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HSongster
 - 👀 I’m interested in all things DATA!!
 - 🌱 I’m currently learning Tableau, R and SQL
-- 💞️ I’m looking to collaborate on any entry to intermidiate data analytical projects
+- 💞️ I’m looking to collaborate on any entry to intermediate data analytical projects
 - 📫 How to reach me hosongster@gmail.com
 
 <!---
